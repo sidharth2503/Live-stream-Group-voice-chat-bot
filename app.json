@@ -1,5 +1,5 @@
 {
-    "name": "live stream VC BOT",
+    "name": "live stream VCC BOT",
     "description": "telegram Voice Chat User bot",
     "repository": "https://github.com/sidharth2503/Live-stream-Group-voice-chat-bot",
     "keywords": ["pytgcalls", "pyrogram", "telegram bot"],
